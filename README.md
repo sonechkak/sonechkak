@@ -15,13 +15,5 @@
 
 ## 🔗 Let's Connect
 - GitHub: [@sonechkak](https://github.com/sonechkak)
-- Feel free to check out my repositories and reach out for collaboration!
-
-## ⚡ Fun Fact
-I enjoy solving complex backend challenges and optimizing database queries for better performance!
-
----
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-- GitHub: [@sonechkak](https://github.com/sonechkak)
 - Tg: [@sonyaaakkkkk](https://t.me/sonyaaakkkkk)
 - Feel free to check out my repositories and reach out for collaboration!
