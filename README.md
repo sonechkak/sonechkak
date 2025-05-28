@@ -16,26 +16,12 @@ Backend developer passionate about building robust web applications and APIs. I 
 - Implementing asynchronous task processing with Celery
 - Database optimization and design with PostgreSQL
 
-## 🌱 Currently Learning
-- Advanced Django patterns and best practices
-- Microservices architecture
-- DevOps and deployment strategies
-- API security and authentication
-
-## 💼 What I Do
-- Design and develop backend systems
-- Create efficient database schemas
-- Build robust API endpoints
-- Implement background task processing
-- Write clean, maintainable code
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sonechkak&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonechkak&layout=compact&theme=radical)
-
 ## 🔗 Let's Connect
 - GitHub: [@sonechkak](https://github.com/sonechkak)
+- Tg: [@sonyaaakkkkk](https://t.me/sonyaaakkkkk)
 - Feel free to check out my repositories and reach out for collaboration!
 
 ## ⚡ Fun Fact
