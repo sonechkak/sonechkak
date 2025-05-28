@@ -10,12 +10,6 @@ Backend developer passionate about building robust web applications and APIs. I 
 - **Languages:** Python
 - **Tools & Technologies:** Redis, Docker, Git
 
-## 🔭 Currently Working On
-- Building scalable web applications with Django
-- Developing RESTful APIs using Django REST Framework
-- Implementing asynchronous task processing with Celery
-- Database optimization and design with PostgreSQL
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sonechkak&show_icons=true&theme=radical)
 
